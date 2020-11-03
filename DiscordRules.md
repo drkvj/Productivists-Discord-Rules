@@ -1,4 +1,4 @@
-# Productionists Discord Rule Draft
+# Productivists Discord Rule Draft
 
 This document is for discussion and changes
 
@@ -35,7 +35,7 @@ Failure to comply with these requirements may result in you losing the right to 
 
 1. No blank or "invisible" names.
 2. No slurs or other offensive sentiments.
-3. No noisy unicode characters - for example, z̯̯͡a̧͎̺l̡͓̫g̹̲o̡̼̘ or byte order marks.
+3. No noisy unicode characters - for example, z̯̯͡a̧͎̺l̡͓̫g̹̲o̡̼̘ or byte order marks.
 4. No nicknames designed to annoy other users.
 
 ## Consequences
